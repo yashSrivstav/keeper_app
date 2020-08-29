@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keeper_app/static/css/main.947b56f3.chunk.css",
+    "main.js": "/keeper_app/static/js/main.8f4feb21.chunk.js",
+    "main.js.map": "/keeper_app/static/js/main.8f4feb21.chunk.js.map",
+    "runtime-main.js": "/keeper_app/static/js/runtime-main.2bb100e2.js",
+    "runtime-main.js.map": "/keeper_app/static/js/runtime-main.2bb100e2.js.map",
+    "static/js/2.6c7b0e2f.chunk.js": "/keeper_app/static/js/2.6c7b0e2f.chunk.js",
+    "static/js/2.6c7b0e2f.chunk.js.map": "/keeper_app/static/js/2.6c7b0e2f.chunk.js.map",
+    "index.html": "/keeper_app/index.html",
+    "precache-manifest.2c6556f1b336d783541a2368477a9f79.js": "/keeper_app/precache-manifest.2c6556f1b336d783541a2368477a9f79.js",
+    "service-worker.js": "/keeper_app/service-worker.js",
+    "static/css/main.947b56f3.chunk.css.map": "/keeper_app/static/css/main.947b56f3.chunk.css.map",
+    "static/js/2.6c7b0e2f.chunk.js.LICENSE.txt": "/keeper_app/static/js/2.6c7b0e2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bb100e2.js",
+    "static/js/2.6c7b0e2f.chunk.js",
+    "static/css/main.947b56f3.chunk.css",
+    "static/js/main.8f4feb21.chunk.js"
+  ]
+}
