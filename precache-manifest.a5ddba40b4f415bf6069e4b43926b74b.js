@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f9b657d18ac5555947ad22393e6713d",
+    "revision": "3ce0402f2d13d09b4d97271cf8e03194",
     "url": "/keeper_app/index.html"
   },
   {
-    "revision": "07ec67a7bdccb990dd38",
-    "url": "/keeper_app/static/css/main.947b56f3.chunk.css"
+    "revision": "689f3282c616a2c6e3b6",
+    "url": "/keeper_app/static/css/main.4c16e485.chunk.css"
   },
   {
     "revision": "57672872cd5300357a0a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/keeper_app/static/js/2.6c7b0e2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07ec67a7bdccb990dd38",
-    "url": "/keeper_app/static/js/main.8f4feb21.chunk.js"
+    "revision": "689f3282c616a2c6e3b6",
+    "url": "/keeper_app/static/js/main.93409c42.chunk.js"
   },
   {
     "revision": "491076a2033ac053b9cc",
